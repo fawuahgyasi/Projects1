@@ -1,5 +1,6 @@
 #include < iostream> 
 
+
 using namespace std;
 
 int main(){
@@ -9,5 +10,7 @@ int main(){
  
  cin >> Name;
  
- 
+cout << Name << "You are welcome";
+
+return 0; 
 }
