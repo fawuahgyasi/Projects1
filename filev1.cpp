@@ -1,5 +1,9 @@
 #include<iostream.h>
-int main {}
+int main {
+  int age;
+  float height;
+  
+  }
 
 
 
